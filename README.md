@@ -39,7 +39,7 @@ The exercises are organized into three modules ("Mundos"). You can explore the f
 
 ## 🛠️ Technologies Used
 
-- **Python 3.11** or higher.
+- **Python 3.13**
 - Recommended IDE: [PyCharm](https://www.jetbrains.com/pycharm/) (or any preferred code editor).
 - Version control with [Git](https://git-scm.com/) and [GitHub](https://github.com/).
 
