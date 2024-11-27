@@ -1,3 +1,18 @@
+# Curso em Vídeo - Python Exercises Solutions 🐍
+
+This repository contains the **solutions to the exercises** proposed in the **Python 3 course** by [Curso em Vídeo](https://www.cursoemvideo.com/), taught by Professor **Gustavo Guanabara**. The course is widely recognized for its high-quality content and step-by-step approach, making it ideal for beginners learning programming with Python.
+
+---
+
+## 🎯 Repository Purpose
+
+This project was created to:
+- Document my learning journey in Python.
+- Share solutions to the exercises for students seeking inspiration or alternative approaches.
+- Showcase my progress and skills in Python with a focus on clean and organized code.
+
+---
+
 ## 📂 Exercises Overview
 
 The exercises are organized into three modules ("Mundos"). You can explore the full list in each directory or view selected highlights below.
@@ -19,3 +34,22 @@ The exercises are organized into three modules ("Mundos"). You can explore the f
 - Highlights:
   - [ex072.py](Mundo3/ex072.py) - Numbers in words
   - [ex076.py](Mundo3/ex076.py) - Price list
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3.11** or higher.
+- Recommended IDE: [PyCharm](https://www.jetbrains.com/pycharm/) (or any preferred code editor).
+- Version control with [Git](https://git-scm.com/) and [GitHub](https://github.com/).
+
+---
+
+## 📖 About the Course
+
+The **Python 3 course by Curso em Vídeo** is a free, high-quality program designed for beginners. It focuses on:
+- Teaching programming logic from scratch.
+- Applying Python concepts in small, practical projects.
+- Developing essential skills for future exploration in fields like web development, automation, and data analysis.
+
+You can access the full course [here](https://www.cursoemvideo.com/).
