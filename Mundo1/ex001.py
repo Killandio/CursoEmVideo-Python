@@ -1,3 +1,2 @@
-# Solution for exercise ex001.py
-# Placeholder for Mundo1 - Exercise 1
-
+# Display a "Hello, World!" message on the screen.
+print("Olá, Mundo!")

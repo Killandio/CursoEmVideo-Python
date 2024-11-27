@@ -1,3 +1,7 @@
-# Solution for exercise ex025.py
-# Placeholder for Mundo1 - Exercise 25
+# This program checks if the name entered by the user contains the word "Silva".
 
+nome = input("Digite seu nome completo: ").strip()
+
+temSilva = "silva" in nome.lower()
+
+print(f"Seu nome tem 'Silva'? {temSilva}")

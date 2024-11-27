@@ -1,3 +1,12 @@
-# Solution for exercise ex032.py
-# Placeholder for Mundo1 - Exercise 32
+# This program checks if a given year is a leap year.
 
+ano = int(input("Digite um ano: "))
+
+if ano % 4 != 0:
+    print(f"O ano {ano}, não é bissexto")
+elif ano % 4 == 0 and ano % 100 != 0:
+    print(f"O ano {ano}, é bissexto")
+elif ano % 4 == 0 and ano % 100 == 0 and ano % 400 == 0:
+    print(f"O ano {ano}, é bissexto")
+else:
+    print(f"O ano {ano}, não é bissexto")
