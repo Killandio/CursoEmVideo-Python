@@ -13,6 +13,18 @@ This project was created to:
 
 ---
 
+## 🌍 Important Notes for International Users
+
+While the comments in the code are written in **English** to make the repository accessible to a broader audience, the actual Python code is in **Portuguese**. This decision reflects the course's context, which is aimed at Portuguese-speaking students. If you're an English speaker, the comments provide sufficient context to understand the solutions, even if the code itself is in Portuguese.
+
+---
+
+## 🇧🇷 Nota para Brasileiros
+
+Os comentários dos códigos estão em **inglês** para alcançar uma audiência maior, mas o código permanece em **português**, como no curso. Isso mantém a lógica e os exemplos alinhados ao aprendizado proposto pelo professor Gustavo Guanabara.
+
+---
+
 ## 📂 Exercises Overview
 
 The exercises are organized into three modules ("Mundos"). You can explore the full list in each directory or view selected highlights below.
