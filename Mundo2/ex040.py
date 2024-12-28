@@ -13,7 +13,7 @@ def getPosFloat(prompt):
             if numero > 0:
                 return numero
             else:
-                print("Apenas números positivos acima de zero são válidos.")
+                print("Apenas números acima de zero são válidos.")
         except ValueError:
             print("Escolha um número positivo válido para prosseguir!")
 
