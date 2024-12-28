@@ -9,7 +9,7 @@ def getPosInt(prompt):
             if numero > 0:
                 return numero
             else:
-                print("Apenas números positivos acima de zero são válidos")
+                print("Apenas números inteiros acima de zero são válidos")
         except ValueError:
             print("Escolha um número inteiro para conseguir prosseguir!")
 
